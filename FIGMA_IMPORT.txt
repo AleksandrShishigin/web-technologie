@@ -1,0 +1,16 @@
+Импорт в Figma
+
+1. Создайте Desktop Frame шириной 1440 px и Mobile Frame шириной 390 px.
+2. Перетащите PNG из папки screens:
+   desktop_home / prices / carts / track / events / booking / contacts
+   mobile_home / prices / carts / track / events / booking / contacts
+3. UI-kit: desktop_ui-kit.png или откройте ui-kit.html.
+4. Свяжите основные кнопки в Prototype mode:
+   Главная -> Бронирование
+   Цены -> Бронирование
+   Карты -> Бронирование
+   Трасса -> Бронирование
+   Мероприятия -> Бронирование
+5. Опубликуйте Figma-файл и вставьте ссылку в раздел 13 отчета.
+
+Интерактивная версия уже доступна локально через index.html.
